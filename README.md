@@ -8,3 +8,4 @@ Should return: 11 (the only odd number)
 Should return: 160 (the only even number)
 
 Source: https://www.codewars.com/kata/5526fc09a1bbd946250002dc/train/ruby
+ 
